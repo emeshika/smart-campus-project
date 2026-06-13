@@ -1,4 +1,4 @@
-# Facilities & Assets Catalogue Microservice — UniSphere 🏫📋
+# Facilities & Assets Catalogue Microservice — UniSphere
 
 ## Project Overview
 This repository contains the **Facilities & Assets Catalogue Module**, a core functional microservice engineered for **UniSphere**—the centralized campus community and resource hub platform. This module digitizes traditional, fragmented university resource management by providing a standardized framework to catalogue, update, and manage university physical infrastructure and assets.
